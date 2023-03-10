@@ -10,13 +10,15 @@ Miembros del equipo:
 
 Task 1.1:
 - ¿Cómo difirieron los grupos creados por ambos modelos?
-R// En general 
+R// En general no se difirió mucho de un modelo a otro, esto debido a que los dos tiene un acuraccy muy acertado para los datos que se utilizaron.
+Como se puede visualizar por medio de los resultados los grupos que se utilizaron brindaron muy buenos resultados.
 
 - ¿Cuál de los modelos fue más rápido?
 R// El modelo que más rapido realizó la ejecución fue el de la librería, esto debido a que se manejan los recursos de manera más rápida y eficiente.
 
 - ¿Qué modelo usarían?
-R// Se usaría el modelo de la librería debido a la rapidez con la que se ejecutan las funciones.
+R// Se usaría el modelo de la librería debido a la rapidez con la que se ejecutan las funciones y la confiabilidad que se tiene con respecto al accuracy score del modelo.
+En general debido a la forma en la que se trabaja con los modelos el de la librería es mejor para utilizar.
 
 Task 1.2:
 - ¿Cómo difirieron los grupos creados por ambos modelos?
