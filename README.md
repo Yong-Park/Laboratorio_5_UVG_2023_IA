@@ -10,20 +10,20 @@ Miembros del equipo:
 
 Task 1.1:
 - ¿Cómo difirieron los grupos creados por ambos modelos?
-En general 
+R// En general 
 
 - ¿Cuál de los modelos fue más rápido?
-El modelo que más rapido realizó la ejecución fue el de la librería, esto debido a que se manejan los recursos de manera más rápida y eficiente.
+R// El modelo que más rapido realizó la ejecución fue el de la librería, esto debido a que se manejan los recursos de manera más rápida y eficiente.
 
 - ¿Qué modelo usarían?
-
+R// Se usaría el modelo de la librería debido a la rapidez con la que se ejecutan las funciones.
 
 Task 1.2:
 - ¿Cómo difirieron los grupos creados por ambos modelos?
 R// Realmente no difirieron mucho debido a que se utilizaron los mismos grupos "X" y "y". Tampoco difiere debido a que la limpieza de los datos no cambia para ambos modelos, se mantiene constante, haciendo que solo la forma de entrenar de los modelos sea diferente.
 
 - ¿Cuál de los modelos fue más rápido?
-// El modelo más rápido de SVM fue el modelo implementado por librerías ya que este es mucho más optimizado que la implementación del grupo.
+R// El modelo más rápido de SVM fue el modelo implementado por librerías ya que este es mucho más optimizado que la implementación del grupo.
 
 - ¿Qué modelo usarían?
-// Se usaría el modelo SVM de la librería ya que tiene un accuracy score de 95%, lo cual lo hace mucho más confiable para entrenar datos y realizar predicciones mucho más rápido.
+R// Se usaría el modelo SVM de la librería ya que tiene un accuracy score de 95%, lo cual lo hace mucho más confiable para entrenar datos y realizar predicciones mucho más rápido.
