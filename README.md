@@ -7,3 +7,18 @@ Miembros del equipo:
 - Santiago Taracena Puga (20017)
 
 ### Preguntas:
+
+Task 1.1:
+- ¿Cómo difirieron los grupos creados por ambos modelos?
+En general 
+
+- ¿Cuál de los modelos fue más rápido?
+El modelo que más rapido realizó la ejecución fue el de la librería, esto debido a que se manejan los recursos de manera más rápida y eficiente.
+
+- ¿Qué modelo usarían?
+
+
+Task 1.2:
+- ¿Cómo difirieron los grupos creados por ambos modelos?
+- ¿Cuál de los modelos fue más rápido?
+- ¿Qué modelo usarían?
